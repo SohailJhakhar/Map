@@ -7,7 +7,7 @@ import android.support.v7.widget.RecyclerView;
 
 public class MainActivity extends AppCompatActivity {
     private RecyclerView myRecyclerView;
-    String [] data = {"Python","java","C++","PHP","JavaScript","Kotlin"};
+    String [] data = {"Python","java","C++","PHP","Java","Kotlin"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
